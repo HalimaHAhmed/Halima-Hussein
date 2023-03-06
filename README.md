@@ -1,7 +1,6 @@
 Hey 👋 Welcome to my page!
 I'm Halima Hussein, Back-End developer from Mogadishu, Somalia,
 
-
 https://miro.medium.com/v2/resize:fit:3200/1*nBbb3oVqPH1g5Que9_VqbA.png
 
 
