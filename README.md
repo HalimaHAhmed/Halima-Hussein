@@ -1,7 +1,7 @@
 Hey 👋 Welcome to my page!
 I'm Halima Hussein, Back-End developer from Mogadishu, Somalia,
 
-
+![R](https://user-images.githubusercontent.com/68946653/223071633-7c5e28f0-ddc9-41a3-b652-269a44d71fbd.png)
 
 
 
